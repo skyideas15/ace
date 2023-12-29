@@ -1,77 +1,81 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
-#EXTINF:-1,TNT Sport 1 [UK]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",TNT Sport 1 [UK]
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1,TNT Sport 2 [UK]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",TNT Sport 2 [UK]
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1,TNT Sport 3 [UK]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",TNT Sport 3 [UK]
 #EXTVLCOPT:start-time=80
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1,TNT Sport ESPN [UK]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",TNT Sport ESPN [UK]
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1,Sky Sports Main Event [UK]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Sky Sports Main Event [UK]
 #EXTVLCOPT:start-time=120
 #EXTVLCOPT:stop-time=200
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1,Sky Sports Football [UK]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Sky Sports Football [UK]
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1,Sky Sports Premier League [UK]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Sky Sports Premier League [UK]
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1,Sky Sports News [UK]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Sky Sports News [UK]
 http://127.0.0.1:6878/ace/getstream?id=41843da5359ec96ab4805f5e8c6f7bfa68be0fd5
-#EXTINF:-1,Sky Bundesliga [GER]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Sky Bundesliga [GER]
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390
-#EXTINF:-1,Sky Sports 1 [GER]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Sky Sports 1 [GER]
 http://127.0.0.1:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
-#EXTINF:-1,Sky Sports 2 [GER]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Sky Sports 2 [GER]
 http://127.0.0.1:6878/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
-#EXTINF:-1,Sky Sports UHD [GER]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Sky Sports UHD [GER]
 http://127.0.0.1:6878/ace/getstream?id=96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
-#EXTINF:-1,ESPN [US]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",ESPN [US]
 http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1,ESPN 2 [US]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",ESPN 2 [US]
 http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1,Fox Sports 1 [US]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Fox Sports 1 [US]
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1,Fox Sports 2 [US]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Fox Sports 2 [US]
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1,UFC HD [RU]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",UFC HD [RU]
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
-#EXTINF:-1,Ziggo Sport Voetbal [NED]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Ziggo Sport Voetbal [NED]
 http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
-#EXTINF:-1,Eleven Sports 1 4k [PL]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Eleven Sports 1 4k [PL]
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1,Eleven Sports 1 [PL]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Eleven Sports 1 [PL]
 http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1,Eleven Sports 2 [PL]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Eleven Sports 2 [PL]
 http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1,Eleven Sports 3 [PL]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Eleven Sports 3 [PL]
 http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1,Eleven Sports 4 [PL]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Eleven Sports 4 [PL]
 http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1,Eleven Sports 5 [PL]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Eleven Sports 5 [PL]
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1,Eleven Sports 6 [PL]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Eleven Sports 6 [PL]
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1,Euro Sport 1 [DE]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Euro Sport 1 [DE]
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1,Euro Sport  2 [DE]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Euro Sport  2 [DE]
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-#EXTINF:-1,MUTV [UK]
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",MUTV [UK]
 http://127.0.0.1:6878/ace/getstream?id=30447ef0ecb4410d5499eaac68026bf123a7ffa6
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",HBO HD
 http://127.0.0.1:6878/ace/getstream?id=896570e72a165769e4c7c5564421462522326c99
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Cinemax HD
 http://127.0.0.1:6878/ace/getstream?id=de2cdd6dcb8ce3be45384cb31a5a52e01e1c2048
-#EXTINF:-1,TNT Music HD
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",TNT Music HD
 http://127.0.0.1:6878/ace/getstream?id=a95aafd191563e8cd1add0fdf1435bf5d340622c
-#EXTINF:-1,Love Nature 4K
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Love Nature 4K
 http://127.0.0.1:6878/ace/getstream?id=8daeedfe0d39c905b132410c45f5885b625fedc5
-#EXTINF:-1,Sky Nature HD
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",Sky Nature HD
 http://127.0.0.1:6878/ace/getstream?id=4753b8da0e2bf2cc7983d738358d26f001e23297
-#EXTINF:-1,FTV Night Secret
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg",FTV Night Secret
 http://127.0.0.1:6878/ace/getstream?id=95a5dc2c3fb9754e49ca3b0c2279fb0f2806453e
-#EXTINF:-1,CMC USA
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://torrentfreak.com/images/ace-stream.jpg", CMC USA
 http://127.0.0.1:6878/ace/getstream?id=c08824eb5a7df70f185158555b14df0c5ef6402c
+
+
+
+
 
 
 #-*-acestreamfb-*--#
@@ -253,6 +257,3 @@ http://127.0.0.1:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
 http://127.0.0.1:6878/ace/getstream?id=ff126d47dc3e3eb69552f240ce824567580f9901
 
 #-📡- Sports -- #
-
-
-
