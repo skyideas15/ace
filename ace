@@ -14,38 +14,6 @@ http://127.0.0.1:6878/ace/getstream?id=7b67226d1ce6c66d1e61c7e192f5c987e278b39f
 
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",21h00 FULHAM-ARSENAL 1 ELEVEN 1 PT FHD
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-premier-league-90.png",21h00 FULHAM-ARSENAL 2 SKY PL FHD
-http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png",21h00 FULHAM-ARSENAL 3 CANAL+ SPORT FHD
-http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-main-event-663.png",21h00 FULHAM-ARSENAL 4 SKY ME FHD
-http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",21h00 FULHAM-ARSENAL 5 DAZN 1 ES FHD
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",21h00 FULHAM-ARSENAL 6 PIMPLETV 4 FHD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.ytimg.com/vi/dxar7KLsrg8/hqdefault.jpg",21h00 FULHAM-ARSENAL 7 ACETOP 2 HD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=94adcdc5a9de993dd11c6d648275cfeb2be6715b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png",21h00 FULHAM-ARSENAL 8 SETANTA 1 RU FHD
-http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",21h00 FULHAM-ARSENAL 9 BEIN 3 TR FHD
-http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-2-portugal.png",21h00 TOTTENHAM-BOURNEMOUTH 1 ELEVEN 2 PT FHD
-http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",21h00 TOTTENHAM-BOURNEMOUTH 2 DAZN 2 ES FHD
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",21h00 TOTTENHAM-BOURNEMOUTH 3 PIMPLETV 7 FHD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-eurasia-plus.png",21h00 TOTTENHAM-BOURNEMOUTH 4 SETANTA 2 RU FHD
-http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-4-704.png",21h00 TOTTENHAM-BOURNEMOUTH 5 BEIN 4 TR FHD
-http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png" group-title="SPORTS",ELEVEN SPORT 1 PT
